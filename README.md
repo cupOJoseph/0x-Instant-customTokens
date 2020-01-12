@@ -15,7 +15,7 @@ Sale orders your custom token must be already signed so 0x has permission to sel
 ## Documentation Links
 
 - Main Instant Docs: https://0x.org/docs/guides/integrate-instant
-- Custom token info
+- Custom token info: https://0x.org/docs/guides/integrate-instant#providing-a-custom-token
 - Relayers
 - Relayer API connection
 - Signing orders
