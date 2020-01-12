@@ -24,4 +24,4 @@ Sale orders your custom token must be already signed so 0x has permission to sel
 ## Other helpful things
 - Manually create a signed order (via cooper at 0x): https://gist.github.com/coopermaruyama/10605bc36da6886f4fa10bf1dcd2fc63
 
-![https://raw.githubusercontent.com/jschiarizzi/0x-Instant-customTokens/master/relayer%20explanation.png](relayer explanation.png)
+![relayer explanation](https://raw.githubusercontent.com/jschiarizzi/0x-Instant-customTokens/master/relayer%20explanation.png)
